@@ -41,6 +41,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://dgrid.ai/models/x-ai/grok-imagine-image-quality</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dgrid.ai/models/bytedance/seedream-4.5</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dgrid.ai/models/qwen/qwen-image-2.0-pro</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
