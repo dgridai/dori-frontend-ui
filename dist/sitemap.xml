@@ -331,11 +331,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dgrid.ai/models/google/gemini-3.1-flash-lite-preview</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://dgrid.ai/models/google/gemini-3.1-flash-image-preview</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
