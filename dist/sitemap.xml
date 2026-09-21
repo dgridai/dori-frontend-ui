@@ -31,6 +31,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://dgrid.ai/models/typesafe/jev-1.13</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dgrid.ai/models/z-ai/glm-5.3-flashx</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
