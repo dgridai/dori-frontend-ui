@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "latest": "2026-10-14",
+  "generation": 2,
+  "fetchedAt": "2026-10-20T07:53:14.866Z",
+  "source": {
+    "name": "LiveBench 2.0",
+    "url": "https://livebench.ai/",
+    "repository": "https://github.com/LiveBench/LiveBench",
+    "assetUrl": "https://livebench.ai/static/js/main.074b2ee8.js",
+    "assetSha256": "6ce787d0f1808db7485ebf6229a2f2363822e443fa61d3907f290ab3972942c6"
+  },
+  "releases": [
+    {
+      "release": "2024-06-24",
+      "file": "2024-06-24-ba756110bbff.json",
+      "modelCount": 73,
+      "categoryCount": 6,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2024_06_24.csv",
+        "categories": "https://livebench.ai/categories_2024_06_24.json",
+        "costs": "https://livebench.ai/cost_2024_06_24.csv"
+      },
+      "hashes": {
+        "scores": "df181166a5a670a5b7678ee02f96c6896d8a88a503aec20243234b698d25a8c0",
+        "categories": "08fa233f92ca970a786f4ab8ea09639bce4c9dcbc88565254989e0bd34d08bfa",
+        "costs": null
+      }
+    },
+    {
+      "release": "2024-07-26",
+      "file": "2024-07-26-f4c4ccb9d636.json",
+      "modelCount": 73,
+      "categoryCount": 6,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2024_07_26.csv",
+        "categories": "https://livebench.ai/categories_2024_07_26.json",
+        "costs": "https://livebench.ai/cost_2024_07_26.csv"
+      },
+      "hashes": {
+        "scores": "670dc4af2497d2daca7b5179f9558854163d954a95939bc4a7d71d8fce298a85",
+        "categories": "31382962c060909421a3f2d8fe9f2194daadc252f654647daa8f684efbbe674b",
+        "costs": null
+      }
+    },
+    {
+      "release": "2024-08-31",
+      "file": "2024-08-31-4ee9954d6c5f.json",
+      "modelCount": 59,
+      "categoryCount": 6,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2024_08_31.csv",
+        "categories": "https://livebench.ai/categories_2024_08_31.json",
+        "costs": "https://livebench.ai/cost_2024_08_31.csv"
+      },
+      "hashes": {
+        "scores": "8c66d248110076378f7eb58aaeef524c65bba6dff0b55f190fd9ac8e92d73b2a",
+        "categories": "31382962c060909421a3f2d8fe9f2194daadc252f654647daa8f684efbbe674b",
+        "costs": null
+      }
+    },
+    {
+      "release": "2024-11-25",
+      "file": "2024-11-25-729c91583935.json",
+      "modelCount": 65,
+      "categoryCount": 6,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2024_11_25.csv",
+        "categories": "https://livebench.ai/categories_2024_11_25.json",
+        "costs": "https://livebench.ai/cost_2024_11_25.csv"
+      },
+      "hashes": {
+        "scores": "17ca6b3d122921d24b591d0da52566c5552ed4f4001ae9d83a11b2712325aae4",
+        "categories": "31382962c060909421a3f2d8fe9f2194daadc252f654647daa8f684efbbe674b",
+        "costs": null
+      }
+    },
+    {
+      "release": "2025-04-02",
+      "file": "2025-04-02-485832d25a54.json",
+      "modelCount": 63,
+      "categoryCount": 6,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2025_04_02.csv",
+        "categories": "https://livebench.ai/categories_2025_04_02.json",
+        "costs": "https://livebench.ai/cost_2025_04_02.csv"
+      },
+      "hashes": {
+        "scores": "d7fd6a3e461cff4f96569093553789115e87adeb9cd95dca043bafa51ff2acaa",
+        "categories": "182ba3b11478a1f1768020fc79b6817b5698054333d768a8c6c800f65cd90cfa",
+        "costs": null
+      }
+    },
+    {
+      "release": "2025-04-25",
+      "file": "2025-04-25-70cb3ead567e.json",
+      "modelCount": 57,
+      "categoryCount": 6,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2025_04_25.csv",
+        "categories": "https://livebench.ai/categories_2025_04_25.json",
+        "costs": "https://livebench.ai/cost_2025_04_25.csv"
+      },
+      "hashes": {
+        "scores": "251eb7461da69232733b80d1e63f00a9db5b921d90c966d139ce0e2851c762d9",
+        "categories": "742ed9e6946db311c91361781d71d3f6c3587b5ade5daf7373eb32a39d21f5fb",
+        "costs": null
+      }
+    },
+    {
+      "release": "2025-05-30",
+      "file": "2025-05-30-6c1559e78be1.json",
+      "modelCount": 70,
+      "categoryCount": 7,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2025_05_30.csv",
+        "categories": "https://livebench.ai/categories_2025_05_30.json",
+        "costs": "https://livebench.ai/cost_2025_05_30.csv"
+      },
+      "hashes": {
+        "scores": "c1215f3df5b2e0a5fe69907c101d29922bf783b011df9ba82638c0145cb4c64c",
+        "categories": "f79b260f8c39b9763007dda694c2ee3f11b9898e17a85ee1c353c8a0b5a8de22",
+        "costs": null
+      }
+    },
+    {
+      "release": "2025-11-25",
+      "file": "2025-11-25-1713c56be982.json",
+      "modelCount": 65,
+      "categoryCount": 7,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2025_11_25.csv",
+        "categories": "https://livebench.ai/categories_2025_11_25.json",
+        "costs": "https://livebench.ai/cost_2025_11_25.csv"
+      },
+      "hashes": {
+        "scores": "34242000938912ac33369e3b25d49f6eafd3cc64823914b2405cef9a7ddcd81d",
+        "categories": "4b407579b95ffacb519a33afc07affc78096af029ffd29891bd3bcd18b62994f",
+        "costs": null
+      }
+    },
+    {
+      "release": "2025-12-23",
+      "file": "2025-12-23-3a678c341dd6.json",
+      "modelCount": 65,
+      "categoryCount": 7,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2025_12_23.csv",
+        "categories": "https://livebench.ai/categories_2025_12_23.json",
+        "costs": "https://livebench.ai/cost_2025_12_23.csv"
+      },
+      "hashes": {
+        "scores": "d8a96fd89213f11f144c92846567f8652bc2740511e8b4bc4211f659ff57f670",
+        "categories": "e8137ae3bf1baabec1ae22d4815cb3f8cb5ed4abf8bae63c2261f3fd06fa964a",
+        "costs": null
+      }
+    },
+    {
+      "release": "2026-01-08",
+      "file": "2026-01-08-56919dcdfdaf.json",
+      "modelCount": 121,
+      "categoryCount": 7,
+      "hasCost": false,
+      "sources": {
+        "scores": "https://livebench.ai/table_2026_01_08.csv",
+        "categories": "https://livebench.ai/categories_2026_01_08.json",
+        "costs": "https://livebench.ai/cost_2026_01_08.csv"
+      },
+      "hashes": {
+        "scores": "bcb52d78b463adeccdd06899452a0bf68ffa84906bd37f68fdc0659d9f241241",
+        "categories": "dad300ad18655b69db720e1b88fc5a5eac06c5b2f0e52c2bf50f10ff057674f3",
+        "costs": null
+      }
+    },
+    {
+      "release": "2026-06-25",
+      "file": "2026-06-25-b6150ef64fe0.json",
+      "modelCount": 59,
+      "categoryCount": 7,
+      "hasCost": true,
+      "sources": {
+        "scores": "https://livebench.ai/table_2026_06_25.csv",
+        "categories": "https://livebench.ai/categories_2026_06_25.json",
+        "costs": "https://livebench.ai/cost_2026_06_25.csv"
+      },
+      "hashes": {
+        "scores": "76ea252d9cecbacfd2398fca8626d470d1950b5a6421547e41059c1cf85a210b",
+        "categories": "dad300ad18655b69db720e1b88fc5a5eac06c5b2f0e52c2bf50f10ff057674f3",
+        "costs": "825166e34d8d6477b7af27c98ac9cd2a34e8af03c967a913ef912bf5b42a6821"
+      }
+    },
+    {
+      "release": "2026-10-14",
+      "generation": 2,
+      "file": "2026-10-14-d83200d1e5e0.json",
+      "modelCount": 49,
+      "categoryCount": 7,
+      "hasCost": true,
+      "sources": {
+        "scores": "https://livebench.ai/data/20261014/table.csv",
+        "categories": "https://livebench.ai/data/20261014/categories.json",
+        "costs": "https://livebench.ai/data/20261014/cost.csv",
+        "breakdown": "https://livebench.ai/data/20261014/breakdown.json",
+        "notes": "https://livebench.ai/data/20261014/notes.json"
+      },
+      "hashes": {
+        "scores": "ea8778ffebcdc7acc99f4607c39441b2e98f303dde44a08a8c7008410d754363",
+        "categories": "b1e46eedc4a461e8ad8a414c24203c35aa760e759096b4211826b40a45f97279",
+        "costs": "ed4712081baad05088e0bb81c490479805a1da0f0c63ac7005e256e02b6ffce1",
+        "breakdown": "61a27a536a9be95e3cbe6f3a7177be2ab6e62721a0262b2c71a84ee089244ddd",
+        "notes": "a6bd6c8fe1ba7ce26dbdb46e20df6e270ce87e5e6677b90ac51fbe809da6fdbc"
+      }
+    }
+  ]
+}
