@@ -591,11 +591,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dgrid.ai/models/deepseek/deepseek-r1-distill-qwen-32b%3Afree</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://dgrid.ai/models/openai/gpt-oss-120b%3Afree</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
